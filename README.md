@@ -7,7 +7,7 @@ SENDER_MAIL='<SENDER_EMAIL_ID>'
 SENDER_PASS=<SENDER_PASSWORD>
 
 ** Enable less secure apps for sender mail to send mail **
-** Set Receiver Mail ID in /src/modules/shared/constants.ts TO_MAIL_ID. For multiple receiver mail ID use comma separated values. eg: TO_MAIL_ID = 'example1@gmail.com,example2@gmail.com' **
+** Set Receiver Mail ID in /src/modules/shared/constants.ts TO_MAIL_ID **
 
 ** api **
 ** add new scheduler **
